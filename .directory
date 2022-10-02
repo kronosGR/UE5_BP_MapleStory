@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:87b73074c14107aacb20506c3932fdc4fd63ed04e7ecea6b89b0396092cbcf54
-size 109
+[Dolphin]
+Timestamp=2022,9,28,5,26,2.8810000000000002
+Version=4
+ViewMode=1
+
+[Settings]
+HiddenFilesShown=true
